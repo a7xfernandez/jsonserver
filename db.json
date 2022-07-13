@@ -1,16 +1,25 @@
 {
-  "posts":[
+  "token-comercio" :
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJodHRwczovL3d3dy52ZW5kZW1hcy5jb20ucGUiLCJ1c2VybmFtZSI6InVzcl9hcHBfcnlzXzNiNTI0MWE0NjMwOF9xYSIsImFsaWFzIjoiODQ5NDQ3MzgzIiwiZW50aWRhZCI6IlJZUyIsInRva2VuX3R5cGUiOiJCZWFyZXIgIiwiaWF0IjoxNjU3NjQzNzAyLCJleHAiOjE2NTc2NDczMDJ9.x1QVfC7XxjEKb61Zdocw8eEF36LRSVYgLIQ4uwR3OPA",
+      "token_type": "*token_type*",
+      "exp": 27
     }
-  ],
-  "comments" : [
+  ,
+  "obtener-cuenta" : 
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
+      "codigoRespuesta": "00",
+      "_id": "199508350543553",
+      "entityCode": "849447383",
+      "entityName": "IMPORTACIONES 2",
+      "billingCode": "cW8wNWn2jJ",
+      "createdAt": "2022-05-06 13:11:43"
+    },
+  "token" : 
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJodHRwczovL3d3dy52ZW5kZW1hcy5jb20ucGUiLCJ1c2VybmFtZSI6InVzcl9hcHBfY2FuYWxmbV9xYSIsInRva2VuX3R5cGUiOiJCZWFyZXIgIiwiaWF0IjoxNjU3NjQwODU3LCJleHAiOjE2NTc2NDE3NTd9.U8JoxEXFpluBfWWC9D6-v_hjOgvMTMEKnYYOa8E-mHI",
+      "token_type": "*token_type*",
+      "exp": 17
+    }    
+  
 }
